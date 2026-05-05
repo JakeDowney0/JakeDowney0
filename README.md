@@ -1,16 +1,16 @@
-## Hi there 👋
+# Jake Downey
 
-<!--
-**JakeDowney0/JakeDowney0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a student at Auburn University studying computer science entering my fourth year. My focus is machine learning and data science.
 
-Here are some ideas to get you started:
+## Projects
+- Tool-Calling LLM Agent — Built an agent that uses external tools to retrieve images and generate captions in an iterative loop.
+- Several Embedding Models — Implemented and evaluated embedding models for NLP with a strong preprocessing pipeline.
+- 
+- Tool-Calling LLM Agent:
+- Several Embedding Models: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python
+- Machine Learning: model implementation, evaluation
+- NLP: Preprocessing, Basic Pipelines
+- Strong Mathematical Foundation
